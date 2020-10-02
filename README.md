@@ -34,7 +34,6 @@ The slides can be best followed in the following order:
 5. BotsLogging
 
 
-
 ## Hands on Labs
 On satisfying the pre-reqs, begin with the Hands on Labs in the following order:
 
@@ -48,17 +47,21 @@ On satisfying the pre-reqs, begin with the Hands on Labs in the following order:
 8. Using Ngrok for Rapid Development and Testing: BotsNgrokLab
 9. Develop a LUIS App for your bots: BotsLuisLab
 
+
 **For Instructor-Led:**
 * We recommend dowloading the site contents or cloning it if you can do so to your local computer.
 * Follow along with the classroom instructions and training sessions.
 * When there is a lab indicated, you may find the lab instructions in the Labs folder.
+
 
 **For Self-Study:**
 * We recommend dowloading the site contents or cloning it if you can do so to your local computer.
 * Go to Decks folder and follow along with the slides.
 * When there is a lab indicated, you may find the lab instructions in the Labs folder.
 
+
 ## Structure of this Repository Site
 *  Labs - hands-on exercises
 *  Slides - classroom slides
 *  Code - scripts
+
